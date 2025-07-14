@@ -1,6 +1,6 @@
-# smart
+# AR-Smart Flutter App
 
-A new Flutter project.
+This is the Flutter front-end of the AR Smart Mirror project, which integrates with a Python + Flask backend.
 
 ## Getting Started
 
