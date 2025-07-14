@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801645370724",
+    "project_id": "fir-smart-620b9",
+    "storage_bucket": "fir-smart-620b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801645370724:android:d8037c13854e1483032e71",
+        "android_client_info": {
+          "package_name": "com.example.smart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXRPyIfLnnD9HOIgVcAAjgYdta6dhibE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
